@@ -9739,6 +9739,7 @@ button.bg-dark:focus {
 }
 
 .text-uppercase {
+  color: red;
   text-transform: uppercase !important;
 }
 
@@ -10127,6 +10128,7 @@ header.masthead {
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
+  color: red;
   font-style: italic;
   line-height: 1.5rem;
   margin-bottom: 25px;
