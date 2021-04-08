@@ -9739,7 +9739,7 @@ button.bg-dark:focus {
 }
 
 .text-uppercase {
-  color: red;
+  color: #fc0511;
   text-transform: uppercase !important;
 }
 
@@ -10061,7 +10061,7 @@ img::-moz-selection {
   border: 0;
 }
 #mainNav .navbar-brand {
-  color: blue;
+  color: #3244a8;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   letter-spacing: 0.0625em;
@@ -10073,11 +10073,11 @@ img::-moz-selection {
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.95rem;
-  color: blue;
+  color: #3244a8;
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: white;
+  color: #ffffff;
 }
 
 @media (min-width: 992px) {
@@ -10110,7 +10110,7 @@ img::-moz-selection {
   }
   #mainNav .navbar-nav .nav-item {
     margin-right: 1rem;
-    color: blue;
+    color: #fc0511;
   }
   #mainNav .navbar-nav .nav-item:last-child {
     margin-right: 0;
@@ -10129,7 +10129,7 @@ header.masthead {
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
-  color: red;
+  color: #fc0511;
   font-style: italic;
   line-height: 1.5rem;
   margin-bottom: 25px;
