@@ -9739,7 +9739,7 @@ button.bg-dark:focus {
 }
 
 .text-uppercase {
-  color: #440b0b;
+  color: #b1b0b0;
   text-transform: uppercase !important;
 }
 
@@ -10111,7 +10111,8 @@ img::-moz-selection {
   }
   #mainNav .navbar-nav .nav-item {
     margin-right: 1rem;
-    color: #fc0511;
+    color: #b1b0b0;
+
   }
   #mainNav .navbar-nav .nav-item:last-child {
     margin-right: 0;
@@ -10130,7 +10131,7 @@ header.masthead {
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
-  color: #fc0511;
+  color: #b1b0b0;
   font-style: italic;
   line-height: 1.5rem;
   margin-bottom: 25px;
